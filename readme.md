@@ -4,4 +4,4 @@ A simple image downloader for some websites:
 -Line Stickers Shop: Download stickers from a Line Store Page
 
 
-Usage: main.py <url>
+Usage: main.py *url*
