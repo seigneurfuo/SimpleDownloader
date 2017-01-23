@@ -4,6 +4,11 @@ A simple image downloader for some websites:
 
 -Danbooru: Download every posts from a pool
 
+#Standard librairies#
+This script uses the following librairies:
+
+urllib, urllib2, re, os, sys, json
+
 #Dependencies#
 -Wget: https://pypi.python.org/pypi/wget/ or pip install wget
 
